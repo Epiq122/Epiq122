@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=epiq122&show_icons=true&locale=en" alt="epiq122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epiq122&" alt="epiq122" /></p>
+
+![](https://raw.githubusercontent.com/epiq122/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/epiq122/github-stats/master/generated/overview.svg#gh-light-mode-only)
