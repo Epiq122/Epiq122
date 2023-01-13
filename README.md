@@ -16,6 +16,8 @@
 <a href="https://www.java.com/en/"> <img src ="https://w7.pngwing.com/pngs/785/145/png-transparent-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-computer-programming-thumbnail.png" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epiq122&show_icons=true&locale=en" alt="epiq122" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
+
+username=epiq122&show_icons=true&locale=en" alt="epiq122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epiq122&" alt="epiq122" /></p>
