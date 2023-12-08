@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rob Gleason</h1>
-<h3 align="center">I am a full stack web developer from Vancouver BC, I attended a Java Bootcamp in August 2022, there i learned lots of valuable skills in the world of programming, I come from a construction background, but have always had a passion for tech, I only wish I had found my love for programming sooner so I could build even more amazing projects.</h3>
+<h3 align="center">I am a full stack web developer from Vancouver BC, I attended a Java Bootcamp in August 2022, there i learned lots of valuable skills in the world of programming, I come from a construction background, but have always had a passion for tech, I only wish I had found my love for programming sooner so I could build even more amazing projects. In my free time I love watching Hockey,Football and Wresting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epiq122&label=Profile%20views&color=0e75b6&style=flat" alt="epiq122" /> </p>
 
