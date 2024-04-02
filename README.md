@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rob Gleason</h1>
-<h3 align="center">I am a full stack web developer from Vancouver BC, I learned to program using Java and really found an interest in FullStack Development, of the course of my journey I then gained skills in the front end world and really enjoyed that as well, In my spare time I like watching Hockey, Football, and Wrestling, I like to play video games from time to time, but focused on developing my skills fore the future. My favorite tech right now has been working with Javascript, Typescript,React,
+<h3 align="center">I am a full stack web developer from Vancouver BC, I learned to program using Java and really found an interest in FullStack Development, over the course of my journey I then gained skills in the front end world and the backend, In my spare time I like watching Hockey, Football, and Wrestling, I like to play video games from time to time, but focused on developing my skills for the future. My favourite tech right now has been working with Javascript, Typescript,React,Golang
 NextJS and Vue</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epiq122&label=Profile%20views&color=0e75b6&style=flat" alt="epiq122" /> </p>
