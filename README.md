@@ -70,9 +70,9 @@ Turns out wiring up sensors and debugging APIs aren't that different. Both requi
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/@epiq122" target="_blank">
+  <!-- <a href="https://twitter.com/@epiq122" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@epiq122" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/robert-gleason-222b30178" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
